@@ -80,7 +80,7 @@ To install:
 2. Inside the archive, open the folder named "extensions". Copy all the files that are inside the "extensions" folder (NOT the folder itself) into your user extensions folder, which you can find here:
 
 - on Windows: `C:\Users\YourUserName\.Appdata\Roaming\inkscape\extensions`
-- on Linux and OS X: `$HOME/.config/inkscape/extensions/` (where $HOME is your user folder, and .config is a hidden folder)
+- on Gnu/Linux and OS X: `$HOME/.config/inkscape/extensions/` (where $HOME is your user folder, and .config is a hidden folder)
 
 Restart Inkscape.
 
